@@ -71,7 +71,7 @@ I aspire to grow as a data scientist who not only analyzes data but also creates
 **DeepLearning.AI – Coursera**
 
 🔗 **Certificate:**  
-https://www.coursera.org/account/accomplishments/professional-cert/OZNFT1Y7S0K7
+https://www.coursera.org/professional-certificates/tensorflow-in-practice
 https://www.coursera.org/account/accomplishments/specialization/A6AAXWUOF49D
 
 ## 📊 GitHub Analytics
