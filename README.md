@@ -70,13 +70,15 @@ I aspire to grow as a data scientist who not only analyzes data but also creates
 ### 🎓 Supervised Machine Learning: Regression and Classification  
 **DeepLearning.AI – Coursera**
 
-<a href="https://www.coursera.org/account/accomplishments/professional-cert/OZNFT1Y7S0K7">
-  <img src="https://raw.githubusercontent.com/gist/DESTYAWANSATRIA/9f8ef45ceecd675e4b5d1a655e2f777b/raw/coursera-logo.png" width="140">
-</a>
-
 🔗 **Certificate:**  
 https://www.coursera.org/account/accomplishments/professional-cert/OZNFT1Y7S0K7
+https://www.coursera.org/account/accomplishments/specialization/A6AAXWUOF49D
 
+## 📊 GitHub Analytics
+
+![Destyawan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=DESTYAWANSATRIA&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DESTYAWANSATRIA&layout=compact&theme=tokyonight)
 
 
 
