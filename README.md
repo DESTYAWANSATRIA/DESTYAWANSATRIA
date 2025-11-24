@@ -116,6 +116,7 @@ Berikut adalah certifications yang telah saya selesaikan selama mengikuti progra
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=DESTYAWANSATRIA&layout=compact&theme=tokyonight)
 
+![snake gif](https://github.com/DESTYAWANSATRIA/DESTYAWANSATRIA/blob/output/github-contribution-grid-snake.svg)
 
 
 
