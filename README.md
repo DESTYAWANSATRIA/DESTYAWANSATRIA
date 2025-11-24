@@ -1,5 +1,10 @@
 <img width="1614" height="807" alt="HALLO (1)" src="https://github.com/user-attachments/assets/3e27be71-f4c5-4349-8285-8263891135b4" />
+# Destyawan Satria Nugraha
+## Informatics Student – Universitas Ahmad Dahlan
 
+I’m an Informatics student at Universitas Ahmad Dahlan with a strong passion for Data Science and Machine Learning. I enjoy transforming raw data into meaningful insights and developing intelligent systems that address real-world challenges.
+With a solid foundation in mathematics and statistics, I continuously sharpen my skills in Python, data preprocessing, model development, and evaluation. I have also earned a certification in Supervised Machine Learning from DeepLearning.AI, which further strengthens my technical understanding in building predictive models.
+I aspire to grow as a data scientist who not only analyzes data but also creates solutions that empower individuals and businesses through technology.
 <!--
 **DESTYAWANSATRIA/DESTYAWANSATRIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
