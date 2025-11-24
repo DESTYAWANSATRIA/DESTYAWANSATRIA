@@ -18,7 +18,7 @@ I aspire to grow as a data scientist who not only analyzes data but also creates
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DESTYAWANSATRIA&repo=Proyek-Analisis-Data&theme=tokyonight" />
 </a>
 
-## IDE & Tools yang Sering Saya Gunakan
+## IDE & Tools 
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" title="Python" />
@@ -30,7 +30,7 @@ I aspire to grow as a data scientist who not only analyzes data but also creates
 
 ---
 
-## Bahasa Pemrograman yang Saya Gunakan
+## Languages Programming
 
 ### Utama
 - **Python** — untuk Machine Learning, Data Science, dan automasi  
