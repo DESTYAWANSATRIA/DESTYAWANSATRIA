@@ -1,4 +1,4 @@
-![About Me](https://github.com/user-attachments/assets/48d706b8-d542-495d-b99f-fb19028d58ca)
+<img width="1614" height="807" alt="HALLO (1)" src="https://github.com/user-attachments/assets/3e27be71-f4c5-4349-8285-8263891135b4" />
 
 <!--
 **DESTYAWANSATRIA/DESTYAWANSATRIA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
