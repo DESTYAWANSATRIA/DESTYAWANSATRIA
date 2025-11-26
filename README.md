@@ -19,9 +19,6 @@ I aspire to grow as a data scientist who not only analyzes data but also builds 
 <a href="https://github.com/DESTYAWANSATRIA/PredictBirth_Jabar">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DESTYAWANSATRIA&repo=PredictBirth_Jabar&theme=tokyonight" />
 </a>
-<a href="https://github.com/DESTYAWANSATRIA/Bike_Sharing_Demand_Analysis">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=DESTYAWANSATRIA&repo=Bike_Sharing_Demand_Analysis&theme=tokyonight" />
-</a>
 
 ---
 
